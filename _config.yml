@@ -24,8 +24,8 @@ title: Pavel Kulmon
 email: Kulmon(at)seznam.cz
 description: >- # this means to ignore newlines until "baseurl:"
   These are my personal webpages. The intention is to inform about myself, the things I am interested in and I spend my time on. If anything here is offending to you, please let me know. I will try to fix it.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://pavelmystic.github.io/PavelMystic # https://mademistakes.com/mastering-jekyll/site-url-baseurl/
+baseurl: "/PavelMystic" # the subpath of your site, e.g. /blog
+url: https://pavelmystic.github.io # https://mademistakes.com/mastering-jekyll/site-url-baseurl/
 twitter_username: jekyllrb
 github_username:  jekyll
 
