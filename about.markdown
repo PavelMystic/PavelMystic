@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Pavel Kulmon. I am senior researcher at [ERA a.s.](https://www.era.aero/en).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I have a Ph.D. in Systems Engineering from the [Czech Technical University in Prague](https://www.cvut.cz/en/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My main interests are in the fields of Bayesian inference, state-space models, Machine and Reinforcement Learning. In all of those fields I am equally interested in theory and applications.
 
-
-[jekyll-organization]: https://github.com/jekyll
+You can reach me via my [email](mailto:Kulmon@seznam.cz), [LinkedIn](https://www.linkedin.com/in/pavel-kulmon-b12087289/) or [GitHub](https://pavelmystic.github.io/PavelMystic/).
